@@ -1,0 +1,15 @@
+# Android
+*.iml
+*.ipr
+*.iws
+.gradle/
+build/
+local.properties
+*.log
+*.key
+*.jks
+
+# Android Studio
+.idea/
+.DS_Store
+app/build/
