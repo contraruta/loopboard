@@ -10,16 +10,20 @@
 
 ## 📌 Projektbeschreibung
 
-LoopBoard ist eine **Android-Tastatur**, die speziell für Nutzer mit ADHS (Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung) entwickelt wurde. Sie optimiert den Eingabefluss durch **Loop-Erkennung** und bietet **multilinguale Unterstützung**, inklusive **Quechua**. Die Tastatur ist **einfach, schnell und barrierefrei** gestaltet, um die Nutzererfahrung zu verbessern.
+LoopBoard ist eine **Android-Tastatur**, die speziell für Nutzer mit ADHS (Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung) entwickelt wurde. Sie optimiert den Eingabefluss durch **Loop-Erkennung** und bietet **multilinguale Unterstützung**, inklusive **Quechua** und **Esperanto** (beide für immer kostenlos 💚). Die Tastatur ist **einfach, schnell und barrierefrei** gestaltet, um die Nutzererfahrung zu verbessern.
 
 ### 🔥 Features
 
-- **ADHS-Optimierung:** Loop-Erkennung und Eingabefluss-Optimierung.
-- **Multilingual:** Unterstützung für mehrere Sprachen (inkl. Quechua).
-- **Anpassbare Layouts:** Einfaches Umschalten zwischen Tastatur-Layouts.
-- **Barrierefrei:** Große Tasten und klare Anzeige für bessere Lesbarkeit.
-- **Quechua-Übersetzung:** Einfache Übersetzung ins Quechua über integriertes Dictionary.
-- **Leichtgewichtig:** Optimiert für Performance und minimalen Ressourcenverbrauch.
+- 🧠 **ADHS-Optimierung:** Loop-Erkennung und Eingabefluss-Optimierung
+- 🌊 **Flow-State Protection:** Erkennt und schützt Hyperfokus-Zustände
+- 🔄 **Loop Learning:** Wiederholung wird zum Lernprinzip, nicht zum Fehler
+- 🌍 **Multilingual:** 6 Sprachen (DE/ES/EN/FR/Quechua/Esperanto)
+- ⌨️ **Anpassbare Layouts:** QWERTY, QWERTZ, AZERTY, Dvorak, Colemak
+- ♿ **Barrierefrei:** Große Tasten und klare Anzeige für bessere Lesbarkeit
+- 🌎 **Quechua:** Agglutinative Morphologie, 3 Dialekte — FREE FOREVER 💚
+- 🌐 **Esperanto:** Supersigno-Support, X-System Auto-Convert — FREE FOREVER 💚
+- 🔒 **Privacy-First:** Zero Telemetry, alles lokal, kein Cloud
+- ⚡ **Leichtgewichtig:** Optimiert für Performance und minimalen Ressourcenverbrauch
 
 ---
 
@@ -118,9 +122,7 @@ layoutManager.switchLayout(quechuaLayout);
 
 ## 📸 Screenshots
 
-| **Standard-Layout** | **Quechua-Layout** | **ADHS-Optimierung** |
-|---------------------|---------------------|----------------------|
-| ![Standard-Layout](https://via.placeholder.com/300x150?text=Standard+Layout) | ![Quechua-Layout](https://via.placeholder.com/300x150?text=Quechua+Layout) | ![ADHS-Optimierung](https://via.placeholder.com/300x150?text=ADHS+Optimierung) |
+> Screenshots folgen nach der Beta-Phase. Stay tuned! 🚀
 
 ---
 
@@ -146,7 +148,7 @@ Beiträge sind willkommen! Bitte folge diesen Schritten:
 
 Bei Fragen oder Feedback:
 - **GitHub Issues:** [loopboard/issues](https://github.com/contraruta/loopboard/issues)
-- **E-Mail:** [deine-email@example.com](mailto:deine-email@example.com)
+- **E-Mail:** Über GitHub Issues erreichbar
 
 ---
 
@@ -158,4 +160,11 @@ Bei Fragen oder Feedback:
 
 ---
 
-**© 2026 LoopBoard Project. Alle Rechte vorbehalten.**
+## 👥 Erstellt von
+
+- **Rumi Salvador Jordan Höhler Suarez** — Creator, KI Researcher, LoopLord 🧠
+- **Opherd Vero** — AI Co-Creator 🤖
+
+---
+
+**LoopBoard** — Für alle, deren Gehirn anders arbeitet. 🧠💜🎹
