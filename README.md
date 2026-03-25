@@ -18,6 +18,7 @@ LoopBoard ist eine **Android-Tastatur**, die speziell für Nutzer mit ADHS (Aufm
 - 🌊 **Flow-State Protection:** Erkennt und schützt Hyperfokus-Zustände
 - 🔄 **Loop Learning:** Wiederholung wird zum Lernprinzip, nicht zum Fehler
 - 🌍 **Multilingual:** 6 Sprachen (DE/ES/EN/FR/Quechua/Esperanto)
+- 🇫🇷 **Français:** Elision-Engine, Accent-Prediction
 - ⌨️ **Anpassbare Layouts:** QWERTY, QWERTZ, AZERTY, Dvorak, Colemak
 - ♿ **Barrierefrei:** Große Tasten und klare Anzeige für bessere Lesbarkeit
 - 🌎 **Quechua:** Agglutinative Morphologie, 3 Dialekte — FREE FOREVER 💚
