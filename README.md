@@ -161,6 +161,10 @@ Bei Fragen oder Feedback:
 
 ---
 
+## 🦙 Sister Projects
+
+- **[Open Capiguara](https://github.com/contraruta/open-capiguara)** — 80 emotional expressive capybara face emojis. Free. Open. For everyone. (CC0)
+
 ## 👥 Erstellt von
 
 - **Rumi Salvador Jordan Höhler Suarez** — Creator, KI Researcher, LoopLord 🧠
